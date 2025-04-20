@@ -66,13 +66,13 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine using this command:
 
    ```shell
-   git clone https://github.com/rajatrawal/ipl-win-predictor.git
+   git clone https://github.com/nishitajain26/IPL_win_prediction.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd ipl-win-predictor
+   cd IPL_win_prediction
    ```
 
 3. Install the required Python libraries:
@@ -96,10 +96,10 @@ To make predictions, provide the current match situation including team performa
 
 ## Predict with Confidence
 
-Explore the "IPL Win Predictor" and make data-driven predictions about IPL match outcomes. Get real-time insights and enhance your understanding of match dynamics. Visit the [Live Demo](https://ipl-match-predictor.streamlit.app/) and elevate your cricket analysis.
+Explore the "IPL Win Predictor" and make data-driven predictions about IPL match outcomes. Get real-time insights and enhance your understanding of match dynamics. Visit the [Live Demo](https://IPL_win_prediction.streamlit.app/) and elevate your cricket analysis.
 
 ## Contribute
 
-If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/rajatrawal/ipl-win-predictor).
+If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/nishitajain26/IPL_win_predicton).
 
 Thank you for exploring the "IPL Win Predictor"! We hope this tool assists your IPL match predictions. 🏏🌟
